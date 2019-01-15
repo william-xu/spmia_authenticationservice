@@ -10,7 +10,11 @@ import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServletRequest;
 import java.io.IOException;
-
+/**
+ * 这个拦截器在什么时候被调用？
+ * @author nozuodie
+ *
+ */
 @Component
 public class InspectHeaderFilter implements Filter {
     @Override
