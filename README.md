@@ -1,5 +1,3 @@
-# Introduction
+# OAuth2验证服务
 
-demo from John Carnell
-
-use  Spring Boot 2.0.6.RELEASE instead of 1.4.4.RELEASE
+使用JWT令牌进行验证
